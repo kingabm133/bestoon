@@ -1,0 +1,4 @@
+#!/bin/sh
+db.sqlite3
+
+exec vim "$@"
